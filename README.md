@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Back-End for QueRy Shop
 
-A quick description of your strapi application
+A quick description = Title
